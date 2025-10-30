@@ -37,10 +37,9 @@ pip install -r requirements.txt
      keyword_paths = ['path/to/your/model.ppn']  # скачать из Picovoice
      ```
    - Убедитесь, что путь к `.ppn` корректен относительно корня проекта или используйте абсолютный путь.
-
-## Запуск
 ```
 
+## Запуск
 ```bash
 python main.py
 ```
@@ -74,6 +73,7 @@ pip install pigar
 
 pigar generate
 ```
+
 
 
 
