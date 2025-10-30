@@ -39,6 +39,7 @@ pip install -r requirements.txt
    - Убедитесь, что путь к `.ppn` корректен относительно корня проекта или используйте абсолютный путь.
 
 ## Запуск
+```
 
 ```bash
 python main.py
@@ -73,6 +74,7 @@ pip install pigar
 
 pigar generate
 ```
+
 
 
 
