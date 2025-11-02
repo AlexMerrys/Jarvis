@@ -6,6 +6,7 @@
 **ВИДЕО-ОБЗОР работы:**
 
 YouTube: https://youtu.be/LYexGbXtI_8
+
 Rutube: https://rutube.ru/video/a527371e64996b9c64fe637cf12a19bd/
 
 
@@ -78,6 +79,7 @@ pip install pigar
 
 pigar generate
 ```
+
 
 
 
