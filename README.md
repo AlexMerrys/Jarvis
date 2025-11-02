@@ -3,7 +3,12 @@
 Голосовой помощник Jarvis на Python с поддержкой русского языка.
 
 ## Возможности
-**ВИДЕО-ОБЗОР работы: https://youtu.be/LYexGbXtI_8**
+**ВИДЕО-ОБЗОР работы:**
+
+YouTube: https://youtu.be/LYexGbXtI_8
+Rutube: https://rutube.ru/video/a527371e64996b9c64fe637cf12a19bd/
+
+
 - 🎤 Распознавание голосовых команд на русском языке
 - 🔊 Воспроизведение звуковых ответов
 - 🎵 Управление музыкой и звуком
@@ -73,6 +78,7 @@ pip install pigar
 
 pigar generate
 ```
+
 
 
 
